@@ -17,7 +17,7 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <spring.clou.alibaba.version>2021.1</spring.clou.alibaba.version>
+        <spring.clou.alibaba.version>2.2.7.RELEASE</spring.clou.alibaba.version>
         <spring.boot.version>2.3.12.RELEASE</spring.boot.version>
         <spring.cloud.version>Hoxton.SR12</spring.cloud.version>
     </properties>
